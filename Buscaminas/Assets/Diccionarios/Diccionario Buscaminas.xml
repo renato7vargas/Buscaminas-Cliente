@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<idiomas>
+	<idioma>
+	<Nombre>Español</Nombre>
+  <TituloJuego>Buscaminas</TituloJuego>
+  <botonUnJugador>Un Jugador</botonUnJugador>
+  <botonMultijugador>Multijugador</botonMultijugador>
+  <botonRegresar>Regresar</botonRegresar>
+  <tituloMultijugador>Multijugador</tituloMultijugador>
+  <inicioSesion>Iniciar Sesión</inicioSesion>
+  <nombreUsuario>Nombre de usuario</nombreUsuario>
+  <ingresarTexto>Ingrese Texto...</ingresarTexto>
+  <contraseña>Contraseña de usuario</contraseña>
+  <registrarse>Registrar nueva cuenta</registrarse>
+  <repetirContraseña>Repita la nueva contraseña</repetirContraseña>
+  <ranking>Tablas de clasificación</ranking>
+  <EncabezadoSelecciónServidor>Seleccion De Servidor</EncabezadoSelecciónServidor>
+  <ServidorLocal>Sevidor Local</ServidorLocal>
+  <ServidorNoEncontrado>¡Servidor Local No Encontrado!</ServidorNoEncontrado>
+  <ServidorExterno>Servidor Externo</ServidorExterno>
+  <IPnoValida>¡IP No Valida!</IPnoValida>
+  <IngresarIP>Ingrese IP del servidor externo</IngresarIP>
+  <botonAceptar>Aceptar</botonAceptar>
+        
+  
+	</idioma>
+
+	<idioma>
+	<Nombre>Ingles</Nombre>
+  <TituloJuego>Minesweeper</TituloJuego>
+  <botonUnJugador>Single Player</botonUnJugador>
+  <botonMultijugador>Multiplayer</botonMultijugador>
+  <botonRegresar>Return</botonRegresar>
+  <tituloMultijugador>Multiplayer</tituloMultijugador>
+  <inicioSesion>Log in</inicioSesion>
+  <nombreUsuario>Username</nombreUsuario>
+  <ingresarTexto>Enter text...</ingresarTexto>
+  <contraseña>Password</contraseña>
+  <registrarse>Sign in</registrarse>
+  <repetirContraseña>Repeat the new password</repetirContraseña>
+  <ranking>leaderboards</ranking>
+  <EncabezadoSelecciónServidor>Select Server</EncabezadoSelecciónServidor>
+  <ServidorLocal>Local Server</ServidorLocal>
+  <ServidorNoEncontrado>Local Server not Found!</ServidorNoEncontrado>
+  <ServidorExterno>External Server</ServidorExterno>
+  <IPnoValida>Invalid IP!</IPnoValida>
+  <IngresarIP>Enter external Server IP</IngresarIP>
+  <botonAceptar>Accept</botonAceptar>
+
+  </idioma>
+  
+  <idioma>
+	<Nombre>日本語</Nombre>
+  <TituloJuego>マインスイーパ</TituloJuego>
+  <botonUnJugador>ひとりで</botonUnJugador>
+  <botonMultijugador>ふたりで</botonMultijugador>
+  <botonRegresar>戻る</botonRegresar>
+  <tituloMultijugador>ふたりで遊ぶ</tituloMultijugador>
+  <inicioSesion>ログイン</inicioSesion>
+  <nombreUsuario>ユーザー名</nombreUsuario>
+  <ingresarTexto>入力…</ingresarTexto>
+  <contraseña>パスワード</contraseña>
+  <registrarse>アカウントを作成</registrarse>
+  <repetirContraseña>もう一度パスワードを入力してください</repetirContraseña>
+  <ranking>ハイスコアランキング</ranking>
+  <EncabezadoSelecciónServidor>サーバを選ぶ</EncabezadoSelecciónServidor>
+  <ServidorLocal>ローカルサーバ</ServidorLocal>
+  <ServidorNoEncontrado>ローカルサーバが見つけられません！</ServidorNoEncontrado>
+  <ServidorExterno>外部サーバ</ServidorExterno>
+  <IPnoValida>無効なIP！</IPnoValida>
+  <IngresarIP>サーバのIPアドレスを入力してください</IngresarIP>
+  <botonAceptar>次へ</botonAceptar>
+
+
+  </idioma>
+
+</idiomas>

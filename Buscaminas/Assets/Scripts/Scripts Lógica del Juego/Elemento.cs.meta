@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fbe6febe3409ef04ca32ce2b0a00d1d0
+timeCreated: 1510260067
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
