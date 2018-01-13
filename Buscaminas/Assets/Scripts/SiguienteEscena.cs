@@ -9,4 +9,9 @@ public class SiguienteEscena : MonoBehaviour {
     {
         SceneManager.LoadScene(cambioEscena);
     }
+    public void RegresarAudio() {
+        AudioSource audio = new AudioSource();
+        audio = GameObject.Find("Audio Source").GetComponent<AudioSource>();
+        audio.Play();
+    }
 }

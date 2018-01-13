@@ -15,16 +15,18 @@ public class ElementoMultijugador : MonoBehaviour
     public Sprite texturaMina;
     public Sprite banderita;
     public static ListasMinas listas = new ListasMinas();
+    ClienteObjeto miCliente;
+
+    //miCliente = GameObject.Find("Cliente").GetComponent<ClienteObjeto>();
 
 
     void Start()
     {
         print("Posición: "+transform.position.x+", "+transform.position.y);
-        if (((int)transform.position.x == 3) && ((int)transform.position.y == 7))
+        if (((int)transform.position.x == 3) && ((int)transform.position.y == 7))//Verifica que este sea el primer elemento en ser inicializado
         {
-            ClienteObjeto miCliente;
             miCliente = GameObject.Find("Cliente").GetComponent<ClienteObjeto>();
-
+            miCliente.IniciarHilos();
             GeneradorListaEstatico generador = miCliente.GetGenerador();
             generador = miCliente.GetGenerador();
             listas.PosicionesMinasX = generador.PosicionesMinasX;
@@ -60,7 +62,14 @@ public class ElementoMultijugador : MonoBehaviour
                     capturado = true;
                     if (TableroMultijugador.EstaTerminado())
                     {
+                        Peticion peticionVictoria = new Peticion();
+                        peticionVictoria.TipoPeticion = "banderas capturadas";
                         Panel.gameObject.SetActive(true);
+                        print(peticionVictoria.TipoPeticion);
+                        miCliente = GameObject.Find("Cliente").GetComponent<ClienteObjeto>();
+                        print(miCliente.nombre);
+                        miCliente.EnviarVictoria(peticionVictoria);
+                        print("peticion Enviada desde elemtno multijugador");
                         TableroMultijugador.juegoTerminado = true;
                     }
                 }

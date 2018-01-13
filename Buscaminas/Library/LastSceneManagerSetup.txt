@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/Seleccionar IP.unity
+- path: "Assets/Escenas/Selecci\xF3n de idioma.unity"
   isLoaded: 1
   isActive: 1

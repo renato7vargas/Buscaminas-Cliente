@@ -139,18 +139,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &106396934
@@ -342,18 +342,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &133927572
@@ -387,18 +387,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &133927574
@@ -480,6 +480,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &138100740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 138100741}
+  - component: {fileID: 138100743}
+  - component: {fileID: 138100742}
+  m_Layer: 5
+  m_Name: PanelPerdida
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &138100741
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 138100740}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1924592531}
+  m_Father: {fileID: 1119608922}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -15}
+  m_SizeDelta: {x: 0, y: -30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &138100742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 138100740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &138100743
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 138100740}
 --- !u!1 &198995059
 GameObject:
   m_ObjectHideFlags: 0
@@ -511,18 +580,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &198995061
@@ -635,18 +704,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &251880174
@@ -759,18 +828,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &255493431
@@ -962,18 +1031,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &343225592
@@ -1007,18 +1076,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &343225594
@@ -1099,6 +1168,115 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 54
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &363627611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 363627613}
+  - component: {fileID: 363627612}
+  m_Layer: 0
+  m_Name: Fuente De Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &363627612
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 363627611}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f1eda89e817eacf41af1bdee48ba1570, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!4 &363627613
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 363627611}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.9085045, y: 10.7, z: 3.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &372894196
 GameObject:
@@ -1187,6 +1365,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1553663433}
+        m_MethodName: RegresarAudio
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &372894199
@@ -1253,18 +1442,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &374725845
@@ -1377,18 +1566,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &446894139
@@ -1501,18 +1690,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &483284667
@@ -1625,18 +1814,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &510310838
@@ -1749,18 +1938,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &512288174
@@ -1873,18 +2062,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &525833400
@@ -1997,18 +2186,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &556828935
@@ -2118,6 +2307,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &575123146
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 575123147}
+  - component: {fileID: 575123149}
+  - component: {fileID: 575123148}
+  m_Layer: 5
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &575123147
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 575123146}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1606876280}
+  m_Father: {fileID: 1119608922}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -15}
+  m_SizeDelta: {x: 0, y: -30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &575123148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 575123146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &575123149
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 575123146}
 --- !u!1 &603142370
 GameObject:
   m_ObjectHideFlags: 0
@@ -2149,18 +2407,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &603142372
@@ -2273,18 +2531,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &656503613
@@ -2397,18 +2655,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &656535862
@@ -2521,18 +2779,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &658523623
@@ -2724,18 +2982,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &788524550
@@ -2769,18 +3027,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &788524552
@@ -2893,18 +3151,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &791498116
@@ -3017,18 +3275,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &808630256
@@ -3220,18 +3478,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &858620399
@@ -3265,18 +3523,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &858620401
@@ -3468,18 +3726,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &994243829
@@ -3513,18 +3771,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &994243831
@@ -3637,18 +3895,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1022746389
@@ -3840,18 +4098,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1073663586
@@ -3885,18 +4143,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1073663588
@@ -4009,18 +4267,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1078586438
@@ -4188,6 +4446,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 372894197}
+  - {fileID: 575123147}
+  - {fileID: 138100741}
   m_Father: {fileID: 0}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4227,18 +4487,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1141441626
@@ -4351,18 +4611,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1146501761
@@ -4475,18 +4735,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1181173434
@@ -4599,18 +4859,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1207567330
@@ -4802,18 +5062,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1271868621
@@ -4847,18 +5107,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1271868623
@@ -4971,18 +5231,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1325737710
@@ -5174,18 +5434,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1356190774
@@ -5219,18 +5479,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1356190776
@@ -5343,18 +5603,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1389441124
@@ -5546,18 +5806,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1437696656
@@ -5759,18 +6019,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1469639577
@@ -5804,18 +6064,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1469639579
@@ -5906,7 +6166,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1534433512}
   - component: {fileID: 1534433511}
-  - component: {fileID: 1534433513}
   m_Layer: 0
   m_Name: fondo2
   m_TagString: Untagged
@@ -5962,92 +6221,12 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1534433510}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.69, y: 3.4, z: 1.07}
+  m_LocalPosition: {x: 3.69, y: 3.4, z: 0.79}
   m_LocalScale: {x: 1.1594921, y: 1.3281764, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!82 &1534433513
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1534433510}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f1eda89e817eacf41af1bdee48ba1570, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 2
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    - serializedVersion: 2
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 2
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 0
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 2
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 2
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 0
 --- !u!1 &1553663432
 GameObject:
   m_ObjectHideFlags: 0
@@ -6119,18 +6298,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1579635921
@@ -6243,18 +6422,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1594983567
@@ -6336,6 +6515,80 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1606876279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1606876280}
+  - component: {fileID: 1606876282}
+  - component: {fileID: 1606876281}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1606876280
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1606876279}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 575123147}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0.0000038147}
+  m_SizeDelta: {x: 376, y: 121}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1606876281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1606876279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.095371954, g: 0.85769, b: 0.9264706, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 90
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 3
+    m_MaxSize: 90
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "\xA1Ganast\xE9!"
+--- !u!222 &1606876282
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1606876279}
 --- !u!1 &1619204452
 GameObject:
   m_ObjectHideFlags: 0
@@ -6367,18 +6620,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1619204454
@@ -6491,18 +6744,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1648641396
@@ -6615,18 +6868,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1662531255
@@ -6818,18 +7071,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1693029589
@@ -6937,18 +7190,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1711685620
@@ -7140,18 +7393,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1762176533
@@ -7264,18 +7517,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1772274874
@@ -7309,18 +7562,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1772274876
@@ -7433,18 +7686,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1786234728
@@ -7636,18 +7889,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &1863520748
@@ -7681,18 +7934,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1863520750
@@ -7867,18 +8120,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &1917983174
@@ -7960,6 +8213,80 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1924592530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1924592531}
+  - component: {fileID: 1924592533}
+  - component: {fileID: 1924592532}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1924592531
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1924592530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 138100741}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 333, y: 134}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1924592532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1924592530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.853, g: 0.19607842, b: 0.19607842, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 90
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 9
+    m_MaxSize: 90
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Perdist\xE9"
+--- !u!222 &1924592533
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1924592530}
 --- !u!1 &2006466216
 GameObject:
   m_ObjectHideFlags: 0
@@ -7991,18 +8318,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &2006466218
@@ -8115,18 +8442,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &2020114558
@@ -8239,18 +8566,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &2056193948
@@ -8442,18 +8769,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!1 &2095665854
@@ -8487,18 +8814,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 1
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
 --- !u!61 &2095665856
@@ -8690,17 +9017,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   capturado: 0
   mina: 0
-  TextoPerdida: {fileID: 0}
-  Panel: {fileID: 0}
+  TextoPerdida: {fileID: 138100740}
+  Panel: {fileID: 575123146}
   texturasVacias:
-  - {fileID: 21300000, guid: ff97efce59e708b48852be0cc4c041d1, type: 3}
+  - {fileID: 21300002, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}
   - {fileID: 21300002, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300004, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300008, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300010, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   - {fileID: 21300006, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
-  - {fileID: 21300000, guid: ed8225c5b734ee84f975dcad19b1fc94, type: 3}
-  - {fileID: 21300000, guid: e01d7f1d30cad6b4e83dab9275b36ace, type: 3}
-  - {fileID: 21300000, guid: d50525ebba6cbb14a87ca01f686bb881, type: 3}
+  - {fileID: 21300024, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300018, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
+  - {fileID: 21300014, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   texturaMina: {fileID: 21300000, guid: b31bedc9361aa3e409d32cc873d8819d, type: 3}
   banderita: {fileID: 21300004, guid: d256c76fda65f3e4b94a0c0263791eab, type: 3}

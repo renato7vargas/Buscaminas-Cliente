@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-
+using UnityEngine.UI;
+using System.Threading;
 using System.Net.Sockets;
 using System.Net;
 using System.Text;
@@ -11,6 +12,11 @@ public class ClienteObjeto : MonoBehaviour
 {
     public static GeneradorListaEstatico generadorGlobal;
     public string nombre = "renato?";
+    public Text direccionIpTexto;
+    public GameObject errorLocal;
+    public GameObject errorExterno;
+    //public string direccionIP;
+    public static string direccionConectarse;
     private static readonly Socket ClientSocket = new Socket
             (AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
@@ -20,6 +26,21 @@ public class ClienteObjeto : MonoBehaviour
     {
         Debug.Log(nombre);
         ConnectToServer();
+
+    }
+    public void ActivarErrorExterno()
+    {
+        errorExterno.gameObject.SetActive(true);
+    }
+
+    public void SetDireccionConectarse(string nuevaDireccion) {
+        if (nuevaDireccion == "local")
+        {
+            direccionConectarse = nuevaDireccion;
+        }
+        else {
+            direccionConectarse = direccionIpTexto.text.ToString();
+        }
         
     }
 
@@ -40,35 +61,67 @@ public class ClienteObjeto : MonoBehaviour
         SendString(json);
         return RecibirRespuestaUsuario();
     }
+    public void IniciarHilos() {
+        Thread hiloRespuesta = new Thread(RecibirRespuestaVictoria);
+        hiloRespuesta.Start();
+    }
 
     public void AdquirirLista(Peticion peticionLista) {
         string json = JsonUtility.ToJson(peticionLista);
         SendString(json);
         RecibirRespuestaLista();
-
     }
 
-    private static void ConnectToServer()
+    public void EnviarVictoria(Peticion peticionVictoria) {
+        print("Se va a enviar la peticion desde cliente objeto, la funcion ya fué invocada");
+        print(peticionVictoria.TipoPeticion);
+        string json = JsonUtility.ToJson(peticionVictoria);
+        SendString(json);
+        print("peticionEnviada");
+    }
+
+    /*private static*/ void ConnectToServer()
     {
         int attempts = 0;
-
-        while (!ClientSocket.Connected)
-        {
+        SiguienteEscena se = new SiguienteEscena();
+        //while (!ClientSocket.Connected)
+        //{
             try
             {
                 attempts++;
                 Debug.Log("Connection attempt " + attempts);
                 // Change IPAddress.Loopback to a remote IP to connect to a remote host. IPAddress.Loopback
-                ClientSocket.Connect(IPAddress.Loopback, PORT);
+                if (direccionConectarse == "local")
+                {
+                    ClientSocket.Connect(IPAddress.Loopback, PORT);
+                    se.cambiarEscena(4);
+                    Debug.Log("Connected");
+            }
+                else {
+                    ClientSocket.Connect(direccionConectarse, PORT);
+                    se.cambiarEscena(4);
+                    Debug.Log("Connected");
+            }
+
+                if (attempts >= 2) {
+                    //Debug.Log("No ha sido posible establecer una conexión");
+                    //errorLocal.gameObject.SetActive(true);
+                    throw new SocketException();
+                    //ClientSocket.Shutdown(SocketShutdown.Both);
+                    //ClientSocket.Close();
+                    //break;
+                    //Environment.Exit(0);
+                }
+
             }
             catch (SocketException)
             {
-                Debug.Log("");//Console.Clear();
+                Debug.Log("Error");//Console.Clear();
             }
-        }
+        //}
 
         //Console.Clear();
-        Debug.Log("Connected");
+        
     }
 
     /*private static void RequestLoop()
@@ -119,6 +172,18 @@ public class ClienteObjeto : MonoBehaviour
         Array.Copy(buffer, data, received);
         string text = Encoding.ASCII.GetString(data);
         Debug.Log(text);
+    }
+    private static void RecibirRespuestaVictoria() {
+        while (true) {
+            var buffer = new byte[2048];
+            int received = ClientSocket.Receive(buffer, SocketFlags.None);
+            if (received == 0) return;
+            var data = new byte[received];
+            Array.Copy(buffer, data, received);
+            string text = Encoding.ASCII.GetString(data);
+            Debug.Log(text);
+        }
+
     }
 
     private static bool RecibirRespuestaUsuario()
