@@ -25,6 +25,8 @@ public class ClienteObjeto : MonoBehaviour
     public void IniciarCliente()
     {
         Debug.Log(nombre);
+        //errorLocal.gameObject.SetActive(false);
+        //errorExterno.gameObject.SetActive(false);
         ConnectToServer();
 
     }
@@ -86,38 +88,65 @@ public class ClienteObjeto : MonoBehaviour
         SiguienteEscena se = new SiguienteEscena();
         //while (!ClientSocket.Connected)
         //{
-            try
+        try
+        {
+            attempts++;
+            Debug.Log("Connection attempt " + attempts);
+            // Change IPAddress.Loopback to a remote IP to connect to a remote host. IPAddress.Loopback
+            if (direccionConectarse == "local")
             {
-                attempts++;
-                Debug.Log("Connection attempt " + attempts);
-                // Change IPAddress.Loopback to a remote IP to connect to a remote host. IPAddress.Loopback
-                if (direccionConectarse == "local")
-                {
-                    ClientSocket.Connect(IPAddress.Loopback, PORT);
-                    se.cambiarEscena(4);
-                    Debug.Log("Connected");
+                ClientSocket.Connect(IPAddress.Loopback, PORT);
+                se.cambiarEscena(4);
+                Debug.Log("Connected");
             }
-                else {
-                    ClientSocket.Connect(direccionConectarse, PORT);
-                    se.cambiarEscena(4);
-                    Debug.Log("Connected");
+            else
+            {
+                ClientSocket.Connect(direccionConectarse, PORT);
+                se.cambiarEscena(4);
+                Debug.Log("Connected");
             }
 
-                if (attempts >= 2) {
-                    //Debug.Log("No ha sido posible establecer una conexión");
-                    //errorLocal.gameObject.SetActive(true);
-                    throw new SocketException();
-                    //ClientSocket.Shutdown(SocketShutdown.Both);
-                    //ClientSocket.Close();
-                    //break;
-                    //Environment.Exit(0);
-                }
-
-            }
-            catch (SocketException)
+            if (attempts >= 2)
             {
-                Debug.Log("Error");//Console.Clear();
+                //Debug.Log("No ha sido posible establecer una conexión");
+
+                throw new SocketException();
+                //ClientSocket.Shutdown(SocketShutdown.Both);
+                //ClientSocket.Close();
+                //break;
+                //Environment.Exit(0);
             }
+
+        }
+        catch (ArgumentNullException)
+        {
+            errorLocal.gameObject.SetActive(false);
+            errorExterno.gameObject.SetActive(true);
+            Debug.Log("Error Externo");
+            
+        }
+        catch (SocketException)
+        {
+            if (direccionConectarse == "local")
+            {
+                errorExterno.gameObject.SetActive(false);
+                errorLocal.gameObject.SetActive(true);
+                Debug.Log("Error Local");
+            }//else
+            //{
+             //   errorExterno.gameObject.SetActive(true);
+             //   Debug.Log("Error Externo");
+            //}
+
+            //Debug.Log("Error");
+        }
+        
+
+
+
+
+
+
         //}
 
         //Console.Clear();
